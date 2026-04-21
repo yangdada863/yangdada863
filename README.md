@@ -35,33 +35,6 @@
 
 ---
 
-### 📊 真的 GitHub 数据（不是 P 的）
-
-![YangDada863's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangdada863&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangdada863&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yangdada863&theme=radical)
-
-> 如果看到 HTML 排第一，那是因为我 README 写得多 —— 这也算一种实力吧？
-
----
-
-### 🤡 幽默部分（但都是真的）
-
-- ⚡ 我修复过一个 **只在闰年 2 月 29 日触发** 的 bug，客户说“你怎么测出来的？”
-- 🐛 最得意的 bug：一个死锁，**只有每月 31 号才出现**（对，2 月、4 月都安全）
-- 💼 面试时我说“我热爱挑战”，实际上我热爱 **挑战被解决后可以摸鱼的那几个小时**
-- 🎓 学历：GitHub 大学毕业，主修 **复制粘贴与调试学**，辅修 **Stack Overflow 检索术**
-
----
-
-### 📫 怎么找到我
-
-- 技术讨论：直接提 Issue（我回得比外卖小哥还快）
-- 闲聊：`yangdada863@example.com`（标题带“大佬”会被自动分类到垃圾箱，请写“沙雕”）
-- 找我工作：直接发 Offer，我会 **认真考虑**（主要看公司下午茶有没有水果）
-
----
-
 ### 🏆 最后一句真心话
 
 > 代码写得好，bug 吃得少。  
