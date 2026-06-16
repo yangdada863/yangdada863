@@ -12,14 +12,12 @@
 - 写了一个 **[sm_ms135]**，在公司内部扛住了 **QPS 5000+**（服务器没崩，我崩了）
 - GitHub 总星星 🌟：`待你 star 后 +1`
 
-#### 📦 几个有点东西的仓库（等你来造）
+#### 📦 我的热门项目（等你来 ⭐）
 
 | 项目 | 一句话介绍 | 星星 |
 |------|-----------|------|
-| [awesome-tools](https://github.com/yangdada863/awesome-tools) | 让重复工作快 **10 倍**，同事怀疑我开了变速齿轮 | ![](https://img.shields.io/github/stars/yangdada863/awesome-tools?style=social) |
-| [debug-helper](https://github.com/yangdada863/debug-helper) | 一个 VSCode 插件，**自动骂你写的烂代码** | ![](https://img.shields.io/github/stars/yangdada863/debug-helper?style=social) |
-| [dada-says](https://github.com/yangdada863/dada-says) | 命令行心灵鸡汤，周下载量 **863**（巧了么这不是） | ![](https://img.shields.io/npm/dm/dada-says) |
-
+| [aimy-sikll](https://github.com/Prohao42/aimy-sikll) | 专为 AI Agent 设计的轻量级渗透测试辅助工具，让 Claude Code 真正「动手」执行安全测试 | ![](https://img.shields.io/github/stars/Prohao42/aimy-sikll?style=social) |
+| [ccanz](https://github.com/Prohao42/ccanz) | Claude Code 一键安装脚本，全中文交互 · 跨平台 · 零依赖 · 支持模型配置 | ![](https://img.shields.io/github/stars/Prohao42/ccanz?style=social) |
 #### 🧠 我真正会的东西（不是 Hello World 水平）
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
