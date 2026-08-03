@@ -54,7 +54,7 @@
 - **X (Twitter)**： [@Fakerrf5](https://x.com/Fakerrf5)  
 - **Telegram**： [@Prohao42](https://t.me/Prohao42)  
 
-欢迎来撩，交流技术或吐槽 bug 都行（不过吐槽前请先备份你的代码）。
+欢迎来聊，交流技术或吐槽 bug 都行（不过吐槽前请先备份你的代码）。
 
 ---
 
